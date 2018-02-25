@@ -1,0 +1,6 @@
+Stateless Components From Stateful Components
+Pass a Component's State
+
+A <Parent /> is supposed to pass its state to a <Child />.
+
+Before a <Parent /> can pass anything to a <Child />, you need to import Child into Parent.js.
